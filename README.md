@@ -6,6 +6,9 @@ NEW FEATURE
 * Register new Customer AC
 * Qr Code Scanner
 
+UPDATE UI
+* Update Login & Register Design
+
 ## Initial
 Available Features:
 * Login
