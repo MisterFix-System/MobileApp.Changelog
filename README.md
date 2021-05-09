@@ -1,5 +1,5 @@
 # MobileApp.Changelog
-** All of updated or new feature also update/create new API Endpoint to the server
+** All of updated or new feature also update/create new API Endpoint to the server **
 
 ## v.1.0.0-rc.4
 UPDATE FEATURE
