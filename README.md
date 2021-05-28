@@ -1,6 +1,17 @@
 # MobileApp.Changelog
 ** All of updated or new feature also update/create new API Endpoint to the server **
 
+## v.1.0.0-rc.7
+NEW FEATURE
+* Show Technician income balance
+* Add feature to submit technician notes after service
+* Show AC Service history
+
+UPDATE FEATURE
+* Change AC Register form - use dropdown data to populate AC data (brand, type, freon)
+* Show Product price discount in order detail
+
+
 ## v.1.0.0-rc.6
 NEW FEATURE
 * Fetch New Order and Accepted Order from database to mobile app
