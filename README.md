@@ -1,6 +1,12 @@
 # MobileApp.Changelog
 ** All of updated or new feature also update/create new API Endpoint to the server **
 
+
+## v.1.0.0-rc.9
+BUGFIX - https://github.com/MisterFix-System/MobileApp.Changelog/issues/3
+* Fix logic to show available service order
+* Fix logic to show order information after the Technician scanning the Qr Code
+
 ## v.1.0.0-rc.7
 NEW FEATURE
 * Show Technician income balance
