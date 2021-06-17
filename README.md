@@ -1,6 +1,11 @@
 # MobileApp.Changelog
 ** All of updated or new feature also update/create new API Endpoint to the server **
 
+## v.1.0.0-rc.11
+* Add DONE action button
+* Make order detail is enable when service date > or = current date
+* Add new page to update new customer AC data when scanning the Qr Code
+* Add Cancel Request button
 
 ## v.1.0.0-rc.9
 BUGFIX - https://github.com/MisterFix-System/MobileApp.Changelog/issues/3
