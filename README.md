@@ -1,6 +1,13 @@
 # MobileApp.Changelog
 ** All of updated or new feature also update/create new API Endpoint to the server **
 
+## v.1.0.2
+* Add action to pick location on Google Maps when creating new customer AC data
+* Update form when Technician update Customer AC info - adding AC Brand and AC PK dropdown option form (only when customer create a new order from main web)
+* Add action to Order Detail - Make Technician have access to update Qr Code data when order created from main web
+
+-----------------------------------------------------------------------------------------------
+
 ## v.1.0.0-rc.11
 * Add DONE action button
 * Make order detail is enable when service date > or = current date
