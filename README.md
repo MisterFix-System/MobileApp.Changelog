@@ -1,6 +1,13 @@
 # MobileApp.Changelog
 ** All of updated or new feature also update/create new API Endpoint to the server **
 
+
+## v.1.0.3
+* Add forgot password feature
+* Update banner image (login, register, AC register)
+* Update google maps API Key
+
+
 ## v.1.0.2
 * Add action to pick location on Google Maps when creating new customer AC data
 * Update form when Technician update Customer AC info - adding AC Brand and AC PK dropdown option form (only when customer create a new order from main web)
